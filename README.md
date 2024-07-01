@@ -1,17 +1,16 @@
 ## Hi, I’m @Kaji
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning python/Gd_Script 
+- 😄 Pronouns: he/him
 
 ## my projects
+
 <img src= "https://i.pinimg.com/originals/69/a4/de/69a4ded8d5b14c785c5ccca071bb4aab.gif">
  <a href="https://nunes-mt.itch.io/ironclade-full" > ironclad </a>
 <img src= "https://i.pinimg.com/originals/aa/06/ab/aa06abcdf73fde1dca112c88e43cf7b5.gif">
  <a href="https://rickzin0.itch.io/patotive" > patotive </a>
-<!---
-rKAJ1/rKAJ1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src= "https://i.pinimg.com/originals/2a/5b/0c/2a5b0c6e897a70f36123b229eb29d77a.gif">
+
+## my social medias
+ <a href= "https://x.com/rKaji_dev"> <img alt="Static Badge" src="https://img.shields.io/badge/-brightgreen?logo=X&color=blue">
+ </a>
