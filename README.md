@@ -1,4 +1,5 @@
-## Hi, I’m @Kaji
+## Hi, I’m @Kaji  
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning python/Gd_Script 
 - 😄 Pronouns: he/him
